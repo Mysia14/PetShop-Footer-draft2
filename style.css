@@ -35,6 +35,9 @@ color: #FFFFFF;
 }
 
 .redes-sociais{
+display: flex;
+justify-content: space-between;
+
 
 }
 

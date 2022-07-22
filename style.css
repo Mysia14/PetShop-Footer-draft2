@@ -6,14 +6,28 @@ font-family: "Monserrat", sans-serif;
 .wrapper{
 background: #0197b0;;
 display: flex;
-height: 12rem;
+columns:25%  4;
+flex-direction: row;
+
+margin:auto;
 width: auto;
-border: 1px solid black;
+height: 15rem;
 font-family: "Roboto", "Helvetica Neue", Helvetica, Arial;
 color: #FFFFFF;
 
+
 }
 
+.como-ajudar{
+    background: #401332;
+    border-radius: 20px;
+    display: ????;
+    padding: 2rem;
+    margin:1.5rem;
+    width: 25%;
+    font-size: 20px;
+    
+}
 .como-ajudar :nth-child(1){
     color: #FFFFFF;
 

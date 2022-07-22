@@ -1,0 +1,65 @@
+body{
+background: lightgray;
+font-family: "Monserrat", sans-serif;
+}
+
+.wrapper{
+background: #0197b0;;
+display: flex;
+height: 12rem;
+width: auto;
+border: 1px solid black;
+font-family: "Roboto", "Helvetica Neue", Helvetica, Arial;
+color: #FFFFFF;
+
+}
+
+.como-ajudar :nth-child(1){
+    color: #FFFFFF;
+
+}
+
+.redes-sociais{
+
+}
+
+.sobre-nos{
+
+}
+
+.formas-pagamento{
+
+}
+
+
+
+
+
+
+
+
+/*padding: 80px 60px;
+background:#00A3DF;
+display: grid;
+grid-column: 4;
+
+
+`
+export const Text = styled.p` 
+color: #FFFFFF;
+font-size: 15px;
+font-weight: 400;
+line-height: 35px;
+`
+export const Wrapper = styled.div `
+background:#401332;
+display: flex;
+flex-direction:column;
+justify-content: center;
+column-gap:2px;
+margin-left:15px;
+width: 200px;
+height: 100px;
+left: 90px;
+border-radius: 10px;
+*/

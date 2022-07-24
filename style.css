@@ -6,10 +6,9 @@ margin: 0;
 
 .wrapper{
 background: #0197b0;;
-display: flex;
-columns:25%  4;
+display: grid;
+grid-template-columns:1.5fr 1fr 1fr 1.4fr;
 flex-direction: row;
-
 margin:auto;
 width: auto;
 height: 15rem;
@@ -22,10 +21,10 @@ color: #FFFFFF;
 .como-ajudar{
     background: #401332;
     border-radius: 20px;
-    display: ????;
+    display:flex;
     padding: 2rem;
     margin:1.5rem;
-    width: 25%;
+    width: 60%;
     font-size: 20px;
     
 }

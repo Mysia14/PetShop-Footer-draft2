@@ -15,7 +15,6 @@ height: 15rem;
 font-family: "Roboto", "Helvetica Neue", Helvetica, Arial;
 color: #FFFFFF;
 
-
 }
 
 .como-ajudar{
@@ -34,18 +33,19 @@ color: #FFFFFF;
 }
 
 .redes-sociais{
-display: flex;
-justify-content: space-between;
-
+display: flex; 
 
 }
 
 .sobre-nos{
+margin-top: 25%;
 
 }
 
 .formas-pagamento{
-
+display: flex;
+align-items:center;
+margin-top:50%
 }
 
 

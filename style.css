@@ -3,7 +3,23 @@ background: lightgray;
 font-family: "Monserrat", sans-serif;
 margin: 0;
 }
+header{
+    background: #0197b0;
+    padding: 3rem;
+    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial;
+    color: #FFFFFF;
 
+}
+
+section{
+    background: #95c8d2;
+    padding:22.5rem;
+    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial;
+    color: #FFFFFF;
+    font-size: 35px;
+    
+
+}
 .wrapper{
 background: #0197b0;;
 display: grid;

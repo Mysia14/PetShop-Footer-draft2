@@ -20,20 +20,25 @@ color: #FFFFFF;
 .como-ajudar{
     background: #401332;
     border-radius: 20px;
-    display:flex;
     padding: 2rem;
-    margin:1.5rem;
-    width: 60%;
+    margin: 1.5rem;
+    max-width: 12.5rem;
+    max-height: 7.5rem;
     font-size: 20px;
-    
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 .como-ajudar :nth-child(1){
     color: #FFFFFF;
+    
 
 }
 
 .redes-sociais{
-display: flex; 
+display: flex;
 
 }
 

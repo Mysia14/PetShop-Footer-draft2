@@ -64,9 +64,8 @@ margin-top: 25%;
 }
 
 .formas-pagamento{
-display: flex;
 align-items:center;
-margin-top:45%;
+margin-top:45%; /* TO DO: ver como div nao vazar*/
 }
 
 
